@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{7000d6ab-d49e-4a27-b0b2-8c1cce7eba6c}">
+		<property name="assetPath">
+			<value>HK LP 075 BPM 01b.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.2009297052154193</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e359023e-0152-477a-9c3c-fa3691488f09}</destination>
+		</relationship>
+	</object>
+</objects>
